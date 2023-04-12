@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T18:25:30.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="vrs71L_-Rtj8hBtUAqe8" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T18:30:21.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="eUxG0v682LhOSy6CeV2O" version="21.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="838" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-0" value="Customer" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="210" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-4" value="Phone Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3mv8zWbGxLvad9xvJV-8-0">
+          <mxGeometry x="20" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-5" value="Name&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3mv8zWbGxLvad9xvJV-8-0">
+          <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-1" value="Order" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="210" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-6" value="&amp;nbsp;Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3mv8zWbGxLvad9xvJV-8-1">
+          <mxGeometry x="35" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-9" value="Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3mv8zWbGxLvad9xvJV-8-1">
+          <mxGeometry x="45" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-2" value="Pizza" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="370" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3mv8zWbGxLvad9xvJV-8-3" value="Drink" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="370" width="140" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
